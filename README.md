@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mauma9
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Java, C, C++ and JS
-- 💞️ I’m looking to collaborate on MAchine Learning
+- 💞️ I’m looking to collaborate on Machine Learning and sound processing projects
 - 📫 How to reach me @mauma_9 on Instagram
 - ⚡ Fun fact: As below so above and beyond, I imagine
 Drawn beyond the lines of reason
